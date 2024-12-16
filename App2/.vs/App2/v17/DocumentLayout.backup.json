@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\app2\\userinterface\\\u0441ontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|solutionrelative:userinterface\\\u0441ontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\app2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\app2\\userinterface\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|solutionrelative:userinterface\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\app2\\userinterface\\commands\\addtrackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|solutionrelative:userinterface\\commands\\addtrackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|d:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\app2\\userinterface\\commands\\deletetrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008475BD-8493-4A25-837F-C0DBC3296480}|App2.csproj|solutionrelative:userinterface\\commands\\deletetrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:14:14.911Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0421ontainer.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\\u0421ontainer.cs",
+              "RelativeDocumentMoniker": "UserInterface\\\u0421ontainer.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\\u0421ontainer.cs",
+              "RelativeToolTip": "UserInterface\\\u0421ontainer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:45:59.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTrackCommand.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\Commands\\AddTrackCommand.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Commands\\AddTrackCommand.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\Commands\\AddTrackCommand.cs",
+              "RelativeToolTip": "UserInterface\\Commands\\AddTrackCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:35:28.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteTrack.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\Commands\\DeleteTrack.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Commands\\DeleteTrack.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\Commands\\DeleteTrack.cs",
+              "RelativeToolTip": "UserInterface\\Commands\\DeleteTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:34:54.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoker.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\Invoker.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Invoker.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u043A\u0430\\\u043F\u0440\u043E\u0433\u0430\\second_lab\\App2\\UserInterface\\Invoker.cs",
+              "RelativeToolTip": "UserInterface\\Invoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:34:49.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
